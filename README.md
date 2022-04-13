@@ -11,5 +11,7 @@ score.
 ML Task :
 
   ----------- data : This folder includes the csv i worked on.
+
   ----------- model : This folder includes all about train,evaluate,prediction and plot the word cloud for each topic.
+
   ----------- preprocessing : This folder includes all about reading csv file, stemming ,lemmatize, and TF-idf preparations.
